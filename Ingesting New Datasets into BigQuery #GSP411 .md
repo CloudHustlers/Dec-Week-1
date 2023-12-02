@@ -1,4 +1,5 @@
 # GSP411
+[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
 ### Run in Cloudshell
 ```cmd
 bq mk ecommerce
